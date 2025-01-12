@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.profiles.windows": {
+        "Python venv": {
+            "path": "C:\\Windows\\System32\\cmd.exe",
+            "args": ["/k", "venv\\Scripts\\activate.bat"]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Python venv"
+}
